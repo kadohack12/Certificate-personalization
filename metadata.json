@@ -1,0 +1,6 @@
+{
+  "name": "Certificat d'Excellence - Générateur Pro",
+  "description": "Générateur et personnalisateur officiel de diplômes, certificats d'excellence et attestations de compétences avec prévisualisation en direct, registres d'authenticité et export PDF haute résolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
